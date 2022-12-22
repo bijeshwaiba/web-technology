@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
+h1{
+    background-color: aqua;
+    font-size: 60px;
+    color: black;
+    font-family: 'Chivo Mono', monospace;
+}
+p{
+    background-color: aquamarine;
+    font-size: 20px;
+    color: black;
+
+}
